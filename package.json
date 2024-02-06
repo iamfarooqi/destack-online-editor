@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "destack": "^0.11.3",
+    "html2canvas": "^1.4.1",
     "next": "latest",
     "postcss": "^8.4.33",
     "react": "18.2.0",
